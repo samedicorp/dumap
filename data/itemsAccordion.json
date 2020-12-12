@@ -511,7 +511,10 @@
                       "Wooden Sofa",
                       "Wooden Table L",
                       "Wooden Table M",
-                      "Wooden Wardrobe"
+                      "Wooden Wardrobe",
+					  "Navigator Chair",
+					  "Office Chair",
+					  "Encampment Chair"
                     ]
                   },
                   {
@@ -1648,6 +1651,7 @@
             "data": [
               "Basic Antenna XS",
               "Basic Antenna S",
+              "Uncommon Antenna XS",
               "Uncommon Antenna S",
               "Uncommon Antenna M",
               "Uncommon Antenna L",
